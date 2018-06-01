@@ -1,0 +1,30 @@
+.search-form {
+    width: 100%;
+    margin: 20px 0;
+}
+.search-form input.form-control {
+    display: inline-block;
+    max-width: 65%;
+    margin-right: 10px;
+}
+.search-form span.input-group-button {
+    display: inline-block;
+    width: auto;
+    float: right;
+}
+.appTitle {
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 20px;
+}
+svg {
+    height: 140px;
+}
+.table thead th, .table div  {
+    text-align: center;
+}
+.table tbody td {
+    vertical-align: middle;
+}
